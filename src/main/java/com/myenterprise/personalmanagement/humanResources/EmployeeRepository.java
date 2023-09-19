@@ -1,5 +1,6 @@
 package com.myenterprise.personalmanagement.humanResources;
 
+import com.myenterprise.personalmanagement.humanResources.entity.EmployeeIdentification;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

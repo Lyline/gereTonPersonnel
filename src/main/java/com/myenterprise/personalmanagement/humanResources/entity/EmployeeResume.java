@@ -1,4 +1,4 @@
-package com.myenterprise.personalmanagement.humanResources;
+package com.myenterprise.personalmanagement.humanResources.entity;
 
 public class EmployeeResume {
   private String firstName;

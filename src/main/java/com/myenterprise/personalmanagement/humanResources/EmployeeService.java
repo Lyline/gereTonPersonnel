@@ -1,5 +1,7 @@
 package com.myenterprise.personalmanagement.humanResources;
 
+import com.myenterprise.personalmanagement.humanResources.entity.EmployeeIdentification;
+import com.myenterprise.personalmanagement.humanResources.entity.EmployeeResume;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
